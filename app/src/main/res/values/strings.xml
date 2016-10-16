@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">空城新月</string>
-    <string name="description">开启该功能，即可获得上帝之手。</string>
+    <string name="description">AccessibilityService测试</string>
 </resources>
